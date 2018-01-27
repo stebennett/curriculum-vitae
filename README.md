@@ -33,3 +33,32 @@ Part of the engineering leadership responsible for crafting a new engineering ca
 Inception of Marks and Spencer technology graduate scheme, and training programme.
 
 Training, mentoring and development of engineers in agile and XP practices.
+
+### **Software Development Manager** - April 2013 - Dec 2015
+
+#### eBay Inc, London, UK
+
+Agile team lead, with line management responsibility for 6 engineers. Responsible for all developer hiring for Europe including the development of the hiring strategy and recruitment plan. Lead all conference attendance for the European Product Development (EPD) team. Part of the EPD leadership team, aiming to build a world‐class agile development team.
+
+Active coder, practicing TDD, ATDD, and pair‐programming. Delivering software through a mixture of Scrum, XP and Lean engineering. Acting as team coach for people development, and process improvement through introspection and adaptation.
+
+Lead the delivery of a mobile first adaptive front‐end for European retail promotions (deals.ebay.co.uk) in six weeks, doubling revenue for Christmas peak trading 2013. Expanded presence throughout 2014 to category pages, new regions and German travel vertical.
+
+Took over team leadership for internal retail promotions sourcing tool, managing full rollout for peak trading 2014. Tool enabled biggest single weekend of sales during UK “Black Friday” campaign.
+
+Leading development of greenfield iOS project, upskilling current development team members.
+
+Organised first hack‐week for EPD. Completed TDD and agile engineering introduction and training for teams in USA. Nominated for entry to eBay emerging leader programme for 2015.
+
+### **Technical Lead** - March 2011 - April 2013
+
+#### Hibu Plc, Reading, UK
+
+Technical team lead for agile product delivery team with line management responsibility for 3 engineers and Scrum team delivery. Accountable for Yell.com releases, managing multiple team integration, deployments and experiential testing.
+
+Responsible for the team delivery of SEO improvements, including the redesign of business information and search results pages, resulting in an organic traffic growth of 15% month‐on‐month.
+Completed redesign and migration of Yell.com Maps to Google Maps. Delivered in 8 weeks, in compliance with business timelines. Consolidated back‐end with Yell.com search, reducing channel complexity and enabling feature parity across experiences.
+
+Technical lead for the development of Yell.com business self‐serve application, enabling free‐listing customers to edit their on‐site content for the first time. Developed new in‐house image store built on Riak with HTTP API to enable dynamic image transformations.
+
+Runner up in company hack‐day for one day development of Facebook instant personalisation of Yell.com.
