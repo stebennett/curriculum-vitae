@@ -114,3 +114,10 @@ Instructor for a weekly Code Club, teaching 9-11 year olds how to code using Scr
 ### **Engineering Manager Slack Team Admin** - August 2016 - Present
 
 Co-creator and founder of a Slack team which aims to help new engineering managers move from individual contributors to people managers. Current membership numbers total over 800 people.
+
+## Links
+
+* Blog - [Herding Programmers](https://www.stevebennett.co/)
+* Twitter - [@stevebennett](https://twitter.com/stevebennett)
+* LinkedIn - [@stebennett](https://www.linkedin.com/in/stebennett/)
+* GitHub - [@stebennett](https://github.com/stebennett)
