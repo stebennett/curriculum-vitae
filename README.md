@@ -21,3 +21,15 @@ Lead Engineering team through a restructuring, developed consistent hiring pract
 Engineering Manager with 9 direct reports. Part of the extended Alfresco Core leadership team.
 
 Responsible for the recruitment, retention and development of engineers in the Enterprise Content Management team. Development of the Alfresco early years technology scheme and talent management processes.
+
+### **Engineering Manager** - January 2016 - July 2016
+
+#### Marks and Spencer, London, UK
+
+Engineering manager looking after 16 developers in the shopping (marksandspencer.com) area of M&S Digital. Responsible for pastoral care, career development and mentoring of primarily back-end developers working on applications supporting the marksandspencer.com platform.
+
+Part of the engineering leadership responsible for crafting a new engineering career ladder (and benefits), providing context and setting expectations to engineers within my teams.
+
+Inception of Marks and Spencer technology graduate scheme, and training programme.
+
+Training, mentoring and development of engineers in agile and XP practices.
