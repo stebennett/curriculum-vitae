@@ -93,3 +93,13 @@ Student industrial placement year.
 
 Primarily focussed on web development and administration of local intranet site using ASP, HTML, JavaScript and ADO. Other tasks included leading deployment of a departmental pilot study of document storage and retrieval software. Also involved in requirements gathering and test phases of Knowledge Management software solutions.
 
+## Education
+
+### BEng Computer Science (Hons) - 2:1
+
+#### University of York, UK
+
+Topics covered include mathematics, formal specification, modelling and design, artificial intelligence, pattern recognition and computer vision.
+
+Final year project aimed to develop a robust object recognition and tracking vision system for a robotic soccer player.
+
