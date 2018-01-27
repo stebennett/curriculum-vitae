@@ -85,3 +85,11 @@ Undertook development of Windows client applications written using Java and Ecli
 
 Managed 2 summer internships, leading the investigation and development of Android applications using Agile/XP techniques.
 
+### **Knowledge Management Technical Support** - August 2004 - July 2005
+
+#### Airbus, Bristol, UK
+
+Student industrial placement year.
+
+Primarily focussed on web development and administration of local intranet site using ASP, HTML, JavaScript and ADO. Other tasks included leading deployment of a departmental pilot study of document storage and retrieval software. Also involved in requirements gathering and test phases of Knowledge Management software solutions.
+
