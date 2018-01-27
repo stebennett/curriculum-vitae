@@ -62,3 +62,16 @@ Completed redesign and migration of Yell.com Maps to Google Maps. Delivered in 8
 Technical lead for the development of Yell.com business self‐serve application, enabling free‐listing customers to edit their on‐site content for the first time. Developed new in‐house image store built on Riak with HTTP API to enable dynamic image transformations.
 
 Runner up in company hack‐day for one day development of Facebook instant personalisation of Yell.com.
+
+### **Software Analyst** - October 2008 - March 2011
+
+#### Hibu Plc, Reading, UK
+
+Developer focussed on building new web‐apps and experiences for Yell.com as part of a Scrum team. Contributed to the delivery of a web‐crawler platform with content entity extraction for building dynamic business profile pages.
+
+Part of the team responsible for the Yell Know‐How content management system, built upon the Alfresco CMS and Liferay Portal project. Designed the content schema alongside 3rd party consultants and built integrations through Alfresco search API.
+
+Part of the team which developed a new business information repository, based on Marklogic content base and search engine. Designed and developed RESTful API for internal application access to store.
+
+Gold award nominated as part of the web‐crawler development team.
+
