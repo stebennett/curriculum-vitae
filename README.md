@@ -110,7 +110,7 @@ Final year project aimed to develop a robust object recognition and tracking vis
 
 ## Volunteer Experience
 
-### **Code Club Insructor** - January 2016 - June 2017
+### **Code Club Instructor** - January 2016 - June 2017
 
 #### Bracknell Forest Libraries, UK
 
