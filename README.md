@@ -52,7 +52,7 @@ Organised first hack‐week for EPD. Completed TDD and agile engineering introdu
 
 ### **Technical Lead** - March 2011 - April 2013
 
-#### Hibu Plc, Reading, UK
+#### Hibu plc, Reading, UK
 
 Technical team lead for agile product delivery team with line management responsibility for 3 engineers and Scrum team delivery. Accountable for Yell.com releases, managing multiple team integration, deployments and experiential testing.
 
@@ -65,7 +65,7 @@ Runner up in company hack‐day for one day development of Facebook instant pers
 
 ### **Software Analyst** - October 2008 - March 2011
 
-#### Hibu Plc, Reading, UK
+#### Hibu plc, Reading, UK
 
 Developer focussed on building new web‐apps and experiences for Yell.com as part of a Scrum team. Contributed to the delivery of a web‐crawler platform with content entity extraction for building dynamic business profile pages.
 
@@ -74,4 +74,14 @@ Part of the team responsible for the Yell Know‐How content management system, 
 Part of the team which developed a new business information repository, based on Marklogic content base and search engine. Designed and developed RESTful API for internal application access to store.
 
 Gold award nominated as part of the web‐crawler development team.
+
+### **Software Developer** - September 2006 - September 2008
+
+#### BT plc, Ipswich, UK
+
+Joined as Graduate software developer after completion of degree. Completed graduate scheme, joining development team as a Senior Software Engineer. Interfaced with clients on a regular basis, leading demonstrations and capturing requirements. Developed software in accordance with CMMI Level 2.
+
+Undertook development of Windows client applications written using Java and Eclipse Rich Client Platform, and C#. Developed J2EE services for deployment to WebLogic.
+
+Managed 2 summer internships, leading the investigation and development of Android applications using Agile/XP techniques.
 
