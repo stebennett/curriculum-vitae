@@ -95,7 +95,7 @@ Primarily focussed on web development and administration of local intranet site 
 
 ## Education
 
-### BEng Computer Science (Hons) - 2:1
+### **BEng Computer Science (Hons) - 2:1** - October 2002 - June 2006
 
 #### University of York, UK
 
@@ -103,3 +103,14 @@ Topics covered include mathematics, formal specification, modelling and design, 
 
 Final year project aimed to develop a robust object recognition and tracking vision system for a robotic soccer player.
 
+## Volunteer Experience
+
+### **Code Club Insructor** - January 2016 - June 2017
+
+#### Bracknell Forest Libraries, UK
+
+Instructor for a weekly Code Club, teaching 9-11 year olds how to code using Scratch, HTML, CSS, and Python.
+
+### **Engineering Manager Slack Team Admin** - August 2016 - Present
+
+Co-creator and founder of a Slack team which aims to help new engineering managers move from individual contributors to people managers. Current membership numbers total over 800 people.
