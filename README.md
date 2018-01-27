@@ -1,5 +1,10 @@
 # Steve Bennett
 
+* [Employment History](#employment-history)
+* [Education](#education)
+* [Volunteer Experience](#volunteer-experience)
+* [Links](#links)
+
 ## Employment History
 
 ### **VP Engineering, Platform Engineering** - July 2017 - Present
