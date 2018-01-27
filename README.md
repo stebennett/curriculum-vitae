@@ -1,11 +1,10 @@
 # Steve Bennett
----
 
-# Employment History
+## Employment History
 
-## **VP Engineering, Platform Engineering** - July 2017 - Present
+### **VP Engineering, Platform Engineering** - July 2017 - Present
 
-## Alfresco Software Inc, Maidenhead, UK
+#### Alfresco Software Inc, Maidenhead, UK
 
 Leading a team of 90 Engineers to deliver the Alfresco Digital Business Platform, which brings together Content, Process and Governance Services to enable some of the worlds largest enterprises to improve the efficiency of their businesses. The Platform Engineering team is accountable for delivery of the platform and services on which applications (both in-house and external) are built.
 
@@ -17,12 +16,8 @@ Lead Engineering team through a restructuring, developed consistent hiring pract
 
 ### **Engineering Manager** - July 2016 - June 2017
 
-## Alfresco Software Inc, Maidenhead, UK
+#### Alfresco Software Inc, Maidenhead, UK
 
 Engineering Manager with 9 direct reports. Part of the extended Alfresco Core leadership team.
 
 Responsible for the recruitment, retention and development of engineers in the Enterprise Content Management team. Development of the Alfresco early years technology scheme and talent management processes.
-
-## Marks and Spencer
-
-
