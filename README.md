@@ -7,7 +7,12 @@
 
 ## Employment History
 
-### **VP Engineering, Platform Engineering** - July 2017 - Present
+### **Engineering Manager** - March 2020 - Present ###
+
+#### Stash Invest, Reading UK ####
+Leading the first Engineering team based in the UK for Stash Invest.
+
+### **VP Engineering, Platform Engineering** - July 2017 - February 2020
 
 #### Alfresco Software Inc, Maidenhead, UK
 
